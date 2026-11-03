@@ -22,7 +22,7 @@
 // написать 3 функции - умножение, возведение в степень, остаток от деления
 
 // function getRandomNumber() {
-//     return Math.floor(Math.random() * 10)
+    // return Math.floor(Math.random() * 10)
 // }
 // const number = getRandomNumber();
 // console.log(number)
