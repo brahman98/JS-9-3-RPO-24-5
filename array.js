@@ -32,11 +32,11 @@
 // }
 
 // МЕТОДЫ - ПРОДОЛЖЕНИЕ
-// fruits = ["apple", "banana", "pineapple", "watermelon", "strawberry", "plam", "orange"]
+fruits = ["apple", "banana", "pineapple", "watermelon", "strawberry", "plam", "orange"]
 
-// console.log(fruits.includes('apple')) // проверяет есть ли значение в массиве
-// console.log(fruits.includes('яблоко'))
-// console.log(fruits.indexOf('orange')) // возвращает индекс элемента в списке
+console.log(fruits.includes('apple')) // проверяет есть ли значение в массиве
+console.log(fruits.includes('яблоко'))
+console.log(fruits.indexOf('orange')) // возвращает индекс элемента в списке
 
 
 // if (fruits.includes("banana")) {
